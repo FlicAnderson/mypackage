@@ -1,5 +1,5 @@
 Package: mypackage
-Title: Simple Test Package Made During R Forwards Workshop February 2021 (One Line, Title Case)
+Title: Simple Test Package Made During R Forwards Workshop February 2021
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Flic",
