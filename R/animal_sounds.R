@@ -1,3 +1,12 @@
+#' Title
+#'
+#' @param animal
+#' @param sound
+#'
+#' @return
+#' @export
+#'
+#' @examples
 animal_sounds <- function(animal, sound) {
   assertthat::assert_that(
     assertthat::is.string(animal),
